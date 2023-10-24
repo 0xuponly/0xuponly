@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xuponly aka 0xslumdog
+- 👀 I’m interested in tech, finance, cryptography, and privacy
+- 🌱 I’m currently learning blockchain and evm smart contracts
+- 💞️ I’m looking to collaborate on financially-oriented smart contracts
+- 📫 How to reach me: @0xslumdog on the bird app
